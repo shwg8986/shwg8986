@@ -1,6 +1,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shwg8986&theme=dracula) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shwg8986&theme=tokyonight&column=8
+[![trophy](https://github-profile-trophy.vercel.app/?username=shwg8986&theme=highcontrast&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
