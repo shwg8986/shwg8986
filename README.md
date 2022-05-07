@@ -10,7 +10,7 @@
 <!-- <a href="https://github.com/shwg8986">
   
 </a> -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=shwg8986&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-  
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shwg8986&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
