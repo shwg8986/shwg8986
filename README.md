@@ -1,4 +1,4 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shwg8986&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shwg8986&theme=) 
 
 <p>
 <a href="https://github.com/shwg8986">
