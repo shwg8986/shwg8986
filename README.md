@@ -9,5 +9,5 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shwg8986&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=shwg8986&theme=&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
