@@ -3,5 +3,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shwg89865&&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwg8986" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwg8986&count_private=true" />
 </a>
